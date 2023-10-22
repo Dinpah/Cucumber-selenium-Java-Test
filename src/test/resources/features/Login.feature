@@ -21,4 +21,5 @@ Feature: web testing selenium
     Examples:
       |username|password|
       |standard_user|aaabbccddd|
+      |standard_user|secret_sauce|
 
